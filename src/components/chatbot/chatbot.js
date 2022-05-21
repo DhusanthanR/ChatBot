@@ -98,7 +98,7 @@ const Chatbot = (props) => {
             <div className="container-fluid chatbot p-0">
               <div className="cratobot mt-3 mr-3 d-flex flex-column">
                 <div className="cratobot-head d-flex p-lg-3 text-center">
-                  <h1 className="craro-header mr-auto">Chat with Tara</h1>
+                  <h1 className="craro-header mr-auto">ChatBot</h1>
                   <div className="close" onClick={secondToggleHandlerClose}>
                   <i
                     className="fa fa-times"
@@ -119,7 +119,7 @@ const Chatbot = (props) => {
                       </div>
                     </div>
                     <div className="chatTitle d-flex flex-column justify-content-center">
-                      <h1 className="text-center w-auto">Tara</h1>
+                      <h1 className="text-center w-auto">ChatBot</h1>
                       <p>Your Digital Bookkeeper</p>
                       <ul className="d-flex flex-wrap justify-content-center text-center w-auto">
                         <li><i className="fas fa-star"></i></li>

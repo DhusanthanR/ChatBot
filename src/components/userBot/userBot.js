@@ -38,7 +38,7 @@ const UserBot = (props) => {
 
               <div class="msg-bubble">
                 <div class="msg-chatbot-date d-flex flex-row justify-content-between">
-                    <span>Tara</span>
+                    <span>ChatBot</span>
                     <span>{data.time}</span>
                 </div>
                 <div class="msg-text">
